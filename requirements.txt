@@ -15,7 +15,7 @@ h5py
 # recording_scripts/adjustCuts.py: 4,8
 # recording_scripts/util.py: 15
 #matplotlib == 1.5.1
-#matplotlib
+matplotlib
 
 # preprocess_data.py: 3
 # recording_scripts/adjustCuts.py: 1
